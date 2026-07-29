@@ -16,3 +16,4 @@ Some problems that I face was since my dataset was made in 1985, the Model can n
 # Examples
 First, this is an example of the model predicting a Mercedes-Benz GL500 which is around 80,000 dollars new
 <img width="1616" height="1032" alt="Screenshot 2026-07-29 131631" src="https://github.com/user-attachments/assets/c3e79412-8923-4b45-8d93-d6f329ac7bc5" />
+
