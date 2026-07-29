@@ -33,6 +33,6 @@ There are other, more important feature imputs above the screenshot but I wanted
 Some problems that I face was since my dataset was made in 1985, the Model can not predict higher end cars like supercars but can still predict high-middle class vehicles. Another problem is that the UI that I made with Gradio only lasts a week from the start of making it so the only way to access it after 8/1 is by using the UI in the colab file. The last problem was that the original dataset's target variable was symboling which is how easy it is for a car to crash but it was a simple fix by just reassigning y to the price of the car.
 
 # Example:
-First, this is an example of the model predicting a Mercedes-Benz GL500 which is around 80,000 dollars new
+This is an example of the model predicting a Mercedes-Benz GL500 which is around 80,000 dollars new
 <img width="1616" height="1032" alt="Screenshot 2026-07-29 131631" src="https://github.com/user-attachments/assets/c3e79412-8923-4b45-8d93-d6f329ac7bc5" />
 
