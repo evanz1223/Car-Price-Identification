@@ -8,10 +8,11 @@ The accuracy of this model that I developed gets around 1000 dollars off of the 
 I found my dataset on the University Of California, Irvine, the dataset was created in 1985 by 1985 Ward's Automotive Yearbook on 5/18 the actual dataset is called [Automobile](https://archive.ics.uci.edu/dataset/10/automobile).
 
 # UI
-I made the UI using Gradio in python and the link to the website is [car predicter](https://16e1233393187c6712.gradio.live/).
+I made the UI using Gradio in python and the link to the website is [car predicter](https://16e1233393187c6712.gradio.live/) The UI has a slot for every feature to input so just look up your cars specs and it will give you an estimated price.
 
 # Problems
 Some problems that I face was since my dataset was made in 1985, the Model can not predict higher end cars like supercars but can still predict high-middle class vehicles. Another problem is that the UI that I made with Gradio only lasts a week from the start of making it so the only way to access it after 8/1 is by using the UI in the colab file.
 
-# UI
-This 
+# Examples
+First, this is an example of the model predicting a Mercedes-Benz GL500 which is around 80,000 dollars new
+<img width="1616" height="1032" alt="Screenshot 2026-07-29 131631" src="https://github.com/user-attachments/assets/c3e79412-8923-4b45-8d93-d6f329ac7bc5" />
