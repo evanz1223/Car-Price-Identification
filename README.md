@@ -2,19 +2,19 @@
 This Repository was made to showcase a Machine Learning Model that I made about car price identification.
 # Tech Stack:
 I used the software Google colab to code this model, all the libraires I used are: 
-pandas 
-seaborn
-numpy
-matplotlib.pyplot
-sklearn.metrics
-ucimlrepo
-sklearn.model_selection
-sklearn.preprocessing
-tensorflow
-keras_tuner
-sklearn.linear_model
-gradio
-joblib
+pandas,
+seaborn, 
+numpy, 
+matplotlib.pyplot, 
+sklearn.metrics, 
+ucimlrepo, 
+sklearn.model_selection, 
+sklearn.preprocessing, 
+tensorflow, 
+keras_tuner, 
+sklearn.linear_model, 
+gradio, 
+joblib, 
 
 # Accuracy:
 The accuracy of this model that I developed gets around 1000 dollars off of the actual car price, the mse is around 4 million but the mae is around 3000. This means that the model is around 3000 dollars off the actual price on average
