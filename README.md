@@ -1,7 +1,7 @@
 # Car-Price-Identification-Through-Linear-Regression
 This Repository was made to showcase a Machine Learning Model that I made about car price identification.
 # Tech Stack:
-I used the software Google colab to code this model, all the libraires I used are: 
+I used the software Google colab to code this model, all the libraries I used are: 
 pandas,
 seaborn, 
 numpy, 
