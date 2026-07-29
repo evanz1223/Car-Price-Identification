@@ -27,7 +27,7 @@ I found my dataset on the University Of California, Irvine, the dataset was crea
 
 # UI:
 I made the UI using Gradio in python and the link to the website is [car predicter](https://16e1233393187c6712.gradio.live/) The UI has a slot for every feature to input so just look up your cars specs and it will give you an estimated price. <img width="1587" height="1017" alt="image" src="https://github.com/user-attachments/assets/fa5f2d2b-d51e-4993-8e13-2d9166874e87" />
-
+There are other, more important feature imputs above the screenshot but I wanted to show the button where it shows the price
 
 # Problems:
 Some problems that I face was since my dataset was made in 1985, the Model can not predict higher end cars like supercars but can still predict high-middle class vehicles. Another problem is that the UI that I made with Gradio only lasts a week from the start of making it so the only way to access it after 8/1 is by using the UI in the colab file.
