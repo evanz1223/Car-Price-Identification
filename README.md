@@ -17,7 +17,7 @@ gradio,
 joblib, 
 
 # Accuracy:
-The accuracy of this model that I developed gets around 1000 dollars off of the actual car price, the mse is around 4 million but the mae is around 3000. This means that the model is around 3000 dollars off the actual price on average I did this by using hyperparameters to train the model and things like early stopping which stops the epoches early when the model stops improving.
+The accuracy of this model that I developed gets around 3000 dollars off of the actual car price, the mse is around 4 million but the mae is around 3000. I did this by using hyperparameters to train the model and things like early stopping which stops the epoches early when the model stops improving.
 
 # Workflow:
 I first got my dataset from UCI Machine Learning Repository, scaled the data, split the data into training data and testing data, started training the model with hyperparameters and keras_tuner. While I trained the model, I worked on this github repository and made my google slides presentation which is also in this repository. When I finished all of that, I finally started working on the UI.
